@@ -1,0 +1,6 @@
+{
+  "appId": "com.footballlive.broadcast",
+  "appName": "Football Live Broadcast",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
